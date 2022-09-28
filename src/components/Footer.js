@@ -198,10 +198,10 @@ const Footer = ({ footer }) => {
         </div>
       </div>
       <div className="footerBorder">
-        <div> Copyright © 2010 - 2021 Xiaomi. All Rights Reserved</div>
+        <div> Copyright © 2010 - 2022 Xiaomi. All Rights </div>
       </div>
     </>
   )
 }
-
+console.log()
 export default Footer
