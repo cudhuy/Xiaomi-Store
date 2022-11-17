@@ -610,7 +610,7 @@ const logo = [
       },
     ],
     footer: {
-      support: [
+      supported: [
         {
           name: "Online Help",
           url: "https://www.mi.com/in/service/help/#category_id=1&pagenum=1&channel=1",
